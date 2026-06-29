@@ -24,3 +24,14 @@ dist-ssr
 *.sw?
 .env
 .env.local
+
+# Auto-added by gitpush.py
+credentials.json
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+secrets.json
+service_account.json
+token.json
